@@ -18,3 +18,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+### Deployed Smart Contract
+Smart Contract: https://ropsten.etherscan.io/address/0xbB4Af5cf27b0Ef5F5c6Fd874aFCe73802E25b2fc
+
+1st mint: https://ropsten.etherscan.io/address/0xbB4Af5cf27b0Ef5F5c6Fd874aFCe73802E25b2fc
